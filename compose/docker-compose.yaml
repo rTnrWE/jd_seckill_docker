@@ -3,7 +3,7 @@ services:
   jd-seckill:
     container_name: jd-seckill
     restart: always
-    image: chinaarjun/jd-seckill:latest
+    image: chinaarjun/jd-seckill-docker:latest
     environment:
       - JD_SECKILL_EID="string"
       - JD_SECKILL_FP="string"
