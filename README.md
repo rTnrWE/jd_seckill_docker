@@ -174,3 +174,8 @@ docker run -v /home/docker/jd_seckill/config.ini:/app/config.ini -d --name jd-se
 
 
 ## 喜欢记得Star谢谢
+
+
+## 打赏
+要是客官抢到了茅台，心情好，请我喝一杯咖啡好不好:)  
+![收款二维码](https://github.com/ChinaArJun/jd_seckill_docker/blob/main/wx.jpg)
